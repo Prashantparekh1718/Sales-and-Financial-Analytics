@@ -1,7 +1,8 @@
-<h1 align="center">AtliQ Hardware: Sales & Financial Analytics Enhancement</h1>
+<h1 align="center">AtliQ Hardware: Sales & Financial Analytics </h1>
 
-</h3>This repository details the data-driven initiatives undertaken to enhance sales and financial analytics at AtliQ Hardware, a global computer hardware supplier.</h3>
-Key Contributions
+<p>This repository details the data-driven initiatives undertaken to enhance sales and financial analytics at AtliQ Hardware, a global computer hardware supplier.</p>
+
+<h2>Key Contributions</h2>
 
 •	**Data-Driven Initiative:** Spearheaded the enhancement of sales and financial analytics, leading to actionable insights that improved decision-making processes.
 
